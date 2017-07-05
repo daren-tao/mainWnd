@@ -1,5 +1,5 @@
 #include <Windows.h>
-
+#include <iostream>
 
 
 HWND		hWnd=NULL;		// Holds Our Window Handle
